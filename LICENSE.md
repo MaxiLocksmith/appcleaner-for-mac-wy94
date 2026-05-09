@@ -1,4 +1,4 @@
-
+Enhance AppCleaner for macOS with AppCleaner for macOS ultimate Workflow: menu-bar-customization & CPU-monitoring, the #1 workflow. Includes menu-bar-customization and
 
 
 
